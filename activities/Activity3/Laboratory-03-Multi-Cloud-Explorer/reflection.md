@@ -1,9 +1,21 @@
-# Mission Reflection
+# Cloud Computing Mission Reflection
 
-The cloud platform that impressed me the most is Google Cloud because of its strong focus on artificial intelligence, machine learning, data, and Kubernetes. While researching the three platforms, I learned that AWS, Azure, and Google Cloud are all powerful public cloud providers with similar basic services. All three provide virtual machines, storage, networking, databases, identity management, monitoring, and tools for building scalable applications. The main difference is the areas where each provider has stronger advantages.
+**1. Which cloud platform impressed you the most?**
 
-Business requirements are very important when selecting a cloud platform. A company should not choose a provider only because it is popular. For example, Azure is a practical choice for a university that already uses Windows Server, Microsoft 365, and Active Directory because Microsoft technologies work well together. For an AI research company, Google Cloud can be a strong option because of its AI and Kubernetes capabilities. AWS can be useful for startups and global applications because of its broad service ecosystem and scalability.
+The cloud platform that impressed me the most is **Amazon Web Services (AWS)**. I chose AWS because it provides many services that can be used for different purposes, such as computing, storage, databases, networking, and security. I was also impressed by how AWS can support both small projects and large businesses. Learning about AWS helped me understand how companies can use cloud technology without needing to maintain all their own physical servers.
 
-Acting as a Cloud Solutions Consultant helped me understand that cloud decisions should be based on the client's actual problem. I need to consider budget, scalability, performance, security, existing technologies, and business goals before recommending a provider.
+**2. What similarities exist among AWS, Azure, and GCP?**
 
-My GitHub Cloud Computing Portfolio also improved after completing this mission. I added a new laboratory folder and organized separate Markdown files for AWS, Azure, GCP, comparisons, recommendations, and reflection. I also learned that screenshots and meaningful commit history are important because they provide evidence of my work. Overall, this mission helped me think more like a cloud solutions architect instead of simply choosing a cloud provider based on popularity.
+AWS, Microsoft Azure, and Google Cloud Platform (GCP) have many similarities. All three provide cloud computing services through the internet and offer services for computing, storage, databases, networking, security, and monitoring. They also support scalability, which allows users to increase or decrease resources depending on their needs. Although their services and interfaces may be different, they all provide solutions that help businesses reduce the need for physical infrastructure.
+
+**3. How do business requirements influence cloud platform selection?**
+
+Business requirements have a major influence on choosing a cloud platform. A company needs to consider its budget, security, performance, scalability, existing technology, and employee skills. For example, a business already using Microsoft products may choose Azure because of its integration with Microsoft services. This taught me that the best cloud platform is not always the most popular one, but the one that matches the company's needs and goals.
+
+**4. What did you learn from acting as a Cloud Solutions Consultant?**
+
+Acting as a Cloud Solutions Consultant taught me how important it is to understand a client's problems before recommending a solution. I learned to compare cloud platforms based on cost, features, security, performance, and scalability. I also learned that cloud solutions should be practical and aligned with business objectives.
+
+**5. How has your GitHub Cloud Computing Portfolio improved after completing this mission?**
+
+My GitHub Cloud Computing Portfolio improved because I became more organized in managing my files and documenting my activities. I practiced using Git commands, commits, and repositories to track my work. I also learned how to present my cloud computing activities in a clear way. Overall, this mission helped improve both my cloud computing knowledge and my confidence in using GitHub as a professional portfolio.
