@@ -1,0 +1,9 @@
+# Mission Reflection
+
+The cloud platform that impressed me the most is Google Cloud because of its strong focus on artificial intelligence, machine learning, data, and Kubernetes. While researching the three platforms, I learned that AWS, Azure, and Google Cloud are all powerful public cloud providers with similar basic services. All three provide virtual machines, storage, networking, databases, identity management, monitoring, and tools for building scalable applications. The main difference is the areas where each provider has stronger advantages.
+
+Business requirements are very important when selecting a cloud platform. A company should not choose a provider only because it is popular. For example, Azure is a practical choice for a university that already uses Windows Server, Microsoft 365, and Active Directory because Microsoft technologies work well together. For an AI research company, Google Cloud can be a strong option because of its AI and Kubernetes capabilities. AWS can be useful for startups and global applications because of its broad service ecosystem and scalability.
+
+Acting as a Cloud Solutions Consultant helped me understand that cloud decisions should be based on the client's actual problem. I need to consider budget, scalability, performance, security, existing technologies, and business goals before recommending a provider.
+
+My GitHub Cloud Computing Portfolio also improved after completing this mission. I added a new laboratory folder and organized separate Markdown files for AWS, Azure, GCP, comparisons, recommendations, and reflection. I also learned that screenshots and meaningful commit history are important because they provide evidence of my work. Overall, this mission helped me think more like a cloud solutions architect instead of simply choosing a cloud provider based on popularity.
